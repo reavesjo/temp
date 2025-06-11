@@ -1,0 +1,6 @@
+project:
+  title: "project"
+  type: default
+  output-dir: "output"
+  render:
+    - "stuff/file.qmd"
