@@ -1,0 +1,3 @@
+quarto render stuff/file.qmd --to pdf
+quarto render stuff/file.qmd --to pdf -o test.pdf
+ls -lhtR
